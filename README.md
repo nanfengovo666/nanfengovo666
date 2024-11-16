@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86e772dc-2b94-4c8a-b0a5-67ea6db85b24)
+
 
 <!--
 **nanfengovo666/nanfengovo666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
