@@ -2,7 +2,7 @@
 
 ## 🚀 关于我
 - 💻 C# 开发者，正在探索 **Vue 3** 的奥秘
-- 🌟 热爱前端开发，追求修仙科技之道
+
 
 ## 🛠️ 我的技能
 - **编程语言**: C#, JavaScript
@@ -16,8 +16,7 @@
 ## 📊 GitHub 统计
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
 
-## 🌌 修仙科技风
-![修仙科技风](https://raw.githubusercontent.com/username/repository/main/image.jpg) <!-- 替换为你喜欢的修仙科技风格的图片链接 -->
+
 
 ## 📫 联系我
 - [LinkedIn](你的LinkedIn链接)
