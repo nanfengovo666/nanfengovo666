@@ -9,9 +9,7 @@
 - **前端框架**: Vue 3
 - **工具**: Visual Studio, Git, Docker
 
-## 🌠 修仙科技项目
-- [天道之路](项目链接) - 修炼中的项目
-- [仙界探秘](项目链接) - 探索未知的奇迹
+
 
 ## 📊 GitHub 统计
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
